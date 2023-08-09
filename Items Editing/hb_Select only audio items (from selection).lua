@@ -1,7 +1,8 @@
 -- @description Select only audio items (from selection)
 -- @author Harry Brokensha
 -- @version 1.0
--- @about
+-- @changelog
+--  + init
 
 function SelectOnlyAudioItemsFromSelection()
 	numItems = reaper.CountSelectedMediaItems(0)

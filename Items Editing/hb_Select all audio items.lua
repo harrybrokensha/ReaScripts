@@ -1,7 +1,8 @@
 -- @description Select all audio items
 -- @author Harry Brokensha
 -- @version 1.0
--- @about
+-- @changelog
+--  + init
 
 function SelectOnlyAudioItemsFromSelection()
 	reaper.Main_OnCommand(40182, 0) -- Item: Select all items

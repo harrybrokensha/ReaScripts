@@ -2,7 +2,7 @@
 -- @author Harry Brokensha
 -- @version 1.0
 -- @changelog
---  + init
+--  + init version
 
 function SelectOnlyMIDIItemsFromSelection()
 	numItems = reaper.CountSelectedMediaItems(0)

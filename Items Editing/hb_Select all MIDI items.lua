@@ -2,7 +2,7 @@
 -- @author Harry Brokensha
 -- @version 1.0
 -- @changelog
---  + init version
+--  + init
 
 function SelectOnlyMIDIItemsFromSelection()
 	reaper.Main_OnCommand(40182, 0) -- Item: Select all items

@@ -1,4 +1,7 @@
--- hb_Select only MIDI items (from selection)
+-- @description Select only MIDI items (from selection)
+-- @author Harry Brokensha
+-- @version 1.0
+-- @about
 
 function SelectOnlyMIDIItemsFromSelection()
 	numItems = reaper.CountSelectedMediaItems(0)

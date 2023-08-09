@@ -1,4 +1,7 @@
--- hb_Select all MIDI items
+-- @description Select all MIDI items
+-- @author Harry Brokensha
+-- @version 1.0
+-- @about
 
 function SelectOnlyMIDIItemsFromSelection()
 	reaper.Main_OnCommand(40182, 0) -- Item: Select all items

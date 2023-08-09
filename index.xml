@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Harry Brokensha Scripts" commit="14c0b6fbc4aa9913e98cb6f37a5622bd19d75bff">
+<index version="1" name="Harry Brokensha Scripts" commit="b6d380ef92e1d312b70fb81414dfe954863b705d">
   <category name="Items Editing">
     <reapack name="hb_Select all audio items.lua" type="script" desc="Select all audio items">
       <version name="1.0" author="Harry Brokensha" time="2023-08-09T08:04:21Z">
@@ -23,6 +23,14 @@
       <version name="1.0" author="Harry Brokensha" time="2023-08-09T08:04:21Z">
         <changelog><![CDATA[+ init]]></changelog>
         <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/eb93927edef26f8f99e97b36a99be954230a63c7/Items%20Editing/hb_Select%20only%20MIDI%20items%20(from%20selection).lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Time Selection">
+    <reapack name="hb_Toggle time selection on:off (recalling last position).lua" type="script" desc="Toggle time selection (recalling last position)">
+      <version name="1.0" author="Harry Brokensha" time="2023-08-09T08:45:48Z">
+        <changelog><![CDATA[+ init]]></changelog>
+        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/b6d380ef92e1d312b70fb81414dfe954863b705d/Time%20Selection/hb_Toggle%20time%20selection%20on:off%20(recalling%20last%20position).lua</source>
       </version>
     </reapack>
   </category>

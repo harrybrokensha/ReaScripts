@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Harry Brokensha Scripts" commit="643ff189416f14ea86cd564f41e6e244782d2450">
+<index version="1" name="Harry Brokensha Scripts" commit="59ddc30485c86834802151753a9dc1fef8a826ea">
   <category name="Items Editing">
-    <reapack name="hb_Select all audio items.lua" type="script" desc="Select all audio items">
-      <version name="1.0" author="Harry Brokensha" time="2023-08-09T08:04:21Z">
-        <changelog><![CDATA[+ init]]></changelog>
-        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/eb93927edef26f8f99e97b36a99be954230a63c7/Items%20Editing/hb_Select%20all%20audio%20items.lua</source>
-      </version>
-    </reapack>
-    <reapack name="hb_Select all MIDI items.lua" type="script" desc="Select all MIDI items">
-      <version name="1.0" author="Harry Brokensha" time="2023-08-09T08:04:21Z">
-        <changelog><![CDATA[+ init]]></changelog>
-        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/eb93927edef26f8f99e97b36a99be954230a63c7/Items%20Editing/hb_Select%20all%20MIDI%20items.lua</source>
-      </version>
-    </reapack>
     <reapack name="hb_Select only audio items (from selection).lua" type="script" desc="Select only audio items (from selection)">
       <version name="1.0" author="Harry Brokensha" time="2023-08-09T08:04:21Z">
         <changelog><![CDATA[+ init]]></changelog>

@@ -166,7 +166,7 @@ function main()
     reaper.UpdateItemInProject(item)
   end
 
-  reaper.Main_OnCommand(reaper.NamedCommandLookup("_RS6f45705a69e4a16dd7eacb6343ce05e00e26d568"), 0) -- set selected items CC shape Bezier
+  --reaper.Main_OnCommand(reaper.NamedCommandLookup("_RS6f45705a69e4a16dd7eacb6343ce05e00e26d568"), 0) -- set selected items CC shape Bezier
 end
 
 reaper.Undo_BeginBlock()

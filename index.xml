@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Harry Brokensha Scripts" commit="8653c17a7d71721e081465571924e7e814e499b6">
+<index version="1" name="Harry Brokensha Scripts" commit="ebc6349d6f9df506cf3fe31c03cdcd8a1a29e3f7">
   <category name="Items Editing">
     <reapack name="hb_Select only audio items (from selection).lua" type="script" desc="Select only audio items (from selection)">
       <version name="1.0" author="Harry Brokensha" time="2023-08-09T08:04:21Z">
@@ -15,6 +15,54 @@
     </reapack>
   </category>
   <category name="MIDI">
+    <reapack name="hb_CSB (Horns, Trombones, Tuba) Auto Legato.lua" type="script" desc="CSB (Horns, Trombones, Tuba) Auto Legato">
+      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:58:26Z">
+        <changelog><![CDATA[+ init]]></changelog>
+        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/ebc6349d6f9df506cf3fe31c03cdcd8a1a29e3f7/MIDI/hb_CSB%20(Horns,%20Trombones,%20Tuba)%20Auto%20Legato.lua</source>
+      </version>
+    </reapack>
+    <reapack name="hb_CSB (Trumpets) Auto Legato.lua" type="script" desc="CSB (Trumpets) Auto Legato">
+      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:58:26Z">
+        <changelog><![CDATA[+ init]]></changelog>
+        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/ebc6349d6f9df506cf3fe31c03cdcd8a1a29e3f7/MIDI/hb_CSB%20(Trumpets)%20Auto%20Legato.lua</source>
+      </version>
+    </reapack>
+    <reapack name="hb_CSS v1-7 Expressive Auto Legato.lua" type="script" desc="CSS v1-7 Expressive Auto Legato">
+      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:58:26Z">
+        <changelog><![CDATA[+ init]]></changelog>
+        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/ebc6349d6f9df506cf3fe31c03cdcd8a1a29e3f7/MIDI/hb_CSS%20v1-7%20Expressive%20Auto%20Legato.lua</source>
+      </version>
+    </reapack>
+    <reapack name="hb_CSS v1-7 Low Latency Auto Legato.lua" type="script" desc="CSS v1.7 Low Latency Auto Legato">
+      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:58:26Z">
+        <changelog><![CDATA[+ init]]></changelog>
+        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/ebc6349d6f9df506cf3fe31c03cdcd8a1a29e3f7/MIDI/hb_CSS%20v1-7%20Low%20Latency%20Auto%20Legato.lua</source>
+      </version>
+    </reapack>
+    <reapack name="hb_CSSS Advanced Auto Legato.lua" type="script" desc="CSSS Advanced Auto Legato">
+      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:58:26Z">
+        <changelog><![CDATA[+ init]]></changelog>
+        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/ebc6349d6f9df506cf3fe31c03cdcd8a1a29e3f7/MIDI/hb_CSSS%20Advanced%20Auto%20Legato.lua</source>
+      </version>
+    </reapack>
+    <reapack name="hb_CSSS Standard Auto Legato.lua" type="script" desc="CSSS Standard Auto Legato">
+      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:58:26Z">
+        <changelog><![CDATA[+ init]]></changelog>
+        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/ebc6349d6f9df506cf3fe31c03cdcd8a1a29e3f7/MIDI/hb_CSSS%20Standard%20Auto%20Legato.lua</source>
+      </version>
+    </reapack>
+    <reapack name="hb_CSW v1-3 Expressive Auto Legato.lua" type="script" desc="CSW v1.3 Expressive Auto Legato">
+      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:58:26Z">
+        <changelog><![CDATA[+ init]]></changelog>
+        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/ebc6349d6f9df506cf3fe31c03cdcd8a1a29e3f7/MIDI/hb_CSW%20v1-3%20Expressive%20Auto%20Legato.lua</source>
+      </version>
+    </reapack>
+    <reapack name="hb_CSW v1-3 Low Latency Auto Legato.lua" type="script" desc="CSW v1.3 Low Latency Auto Legato">
+      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:58:26Z">
+        <changelog><![CDATA[+ init]]></changelog>
+        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/ebc6349d6f9df506cf3fe31c03cdcd8a1a29e3f7/MIDI/hb_CSW%20v1-3%20Low%20Latency%20Auto%20Legato.lua</source>
+      </version>
+    </reapack>
     <reapack name="hb_Insert CC into selected items at cursor.lua" type="script" desc="Insert CC into selected items at cursor">
       <version name="1.0" author="Harry Brokensha" time="2023-08-25T12:51:51Z">
         <changelog><![CDATA[+ init]]></changelog>
@@ -55,56 +103,6 @@
       <version name="1.0" author="Harry Brokensha" time="2023-08-25T12:51:51Z">
         <changelog><![CDATA[+ init]]></changelog>
         <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/abed11b740e9f73c8dfcc37ea901942201077ef6/MIDI/hb_Insert%20CC2%20into%20selected%20items%20at%20cursor%20(127).lua</source>
-      </version>
-    </reapack>
-  </category>
-  <category name="MIDI/Cinematic Studio Series Auto Legato">
-    <reapack name="hb_CSB (Horns, Trombones, Tuba) Auto Legato.lua" type="script" desc="CSB (Horns, Trombones, Tuba) Auto Legato">
-      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:54:40Z">
-        <changelog><![CDATA[+ init]]></changelog>
-        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/cf6c5f1486ac141b740a935e22240ad02c7e49e0/MIDI/Cinematic%20Studio%20Series%20Auto%20Legato/hb_CSB%20(Horns,%20Trombones,%20Tuba)%20Auto%20Legato.lua</source>
-      </version>
-    </reapack>
-    <reapack name="hb_CSB (Trumpets) Auto Legato.lua" type="script" desc="CSB (Trumpets) Auto Legato">
-      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:54:40Z">
-        <changelog><![CDATA[+ init]]></changelog>
-        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/cf6c5f1486ac141b740a935e22240ad02c7e49e0/MIDI/Cinematic%20Studio%20Series%20Auto%20Legato/hb_CSB%20(Trumpets)%20Auto%20Legato.lua</source>
-      </version>
-    </reapack>
-    <reapack name="hb_CSS v1-7 Expressive Auto Legato.lua" type="script" desc="CSS v1-7 Expressive Auto Legato">
-      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:54:40Z">
-        <changelog><![CDATA[+ init]]></changelog>
-        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/cf6c5f1486ac141b740a935e22240ad02c7e49e0/MIDI/Cinematic%20Studio%20Series%20Auto%20Legato/hb_CSS%20v1-7%20Expressive%20Auto%20Legato.lua</source>
-      </version>
-    </reapack>
-    <reapack name="hb_CSS v1-7 Low Latency Auto Legato.lua" type="script" desc="CSS v1.7 Low Latency Auto Legato">
-      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:54:40Z">
-        <changelog><![CDATA[+ init]]></changelog>
-        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/cf6c5f1486ac141b740a935e22240ad02c7e49e0/MIDI/Cinematic%20Studio%20Series%20Auto%20Legato/hb_CSS%20v1-7%20Low%20Latency%20Auto%20Legato.lua</source>
-      </version>
-    </reapack>
-    <reapack name="hb_CSSS Advanced Auto Legato.lua" type="script" desc="CSSS Advanced Auto Legato">
-      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:54:40Z">
-        <changelog><![CDATA[+ init]]></changelog>
-        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/cf6c5f1486ac141b740a935e22240ad02c7e49e0/MIDI/Cinematic%20Studio%20Series%20Auto%20Legato/hb_CSSS%20Advanced%20Auto%20Legato.lua</source>
-      </version>
-    </reapack>
-    <reapack name="hb_CSSS Standard Auto Legato.lua" type="script" desc="CSSS Standard Auto Legato">
-      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:54:40Z">
-        <changelog><![CDATA[+ init]]></changelog>
-        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/cf6c5f1486ac141b740a935e22240ad02c7e49e0/MIDI/Cinematic%20Studio%20Series%20Auto%20Legato/hb_CSSS%20Standard%20Auto%20Legato.lua</source>
-      </version>
-    </reapack>
-    <reapack name="hb_CSW v1-3 Expressive Auto Legato.lua" type="script" desc="CSW v1.3 Expressive Auto Legato">
-      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:54:40Z">
-        <changelog><![CDATA[+ init]]></changelog>
-        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/cf6c5f1486ac141b740a935e22240ad02c7e49e0/MIDI/Cinematic%20Studio%20Series%20Auto%20Legato/hb_CSW%20v1-3%20Expressive%20Auto%20Legato.lua</source>
-      </version>
-    </reapack>
-    <reapack name="hb_CSW v1-3 Low Latency Auto Legato.lua" type="script" desc="CSW v1.3 Low Latency Auto Legato">
-      <version name="0.1" author="Harry Brokensha" time="2023-09-09T13:54:40Z">
-        <changelog><![CDATA[+ init]]></changelog>
-        <source main="main">https://github.com/harrybrokensha/ReaScripts/raw/cf6c5f1486ac141b740a935e22240ad02c7e49e0/MIDI/Cinematic%20Studio%20Series%20Auto%20Legato/hb_CSW%20v1-3%20Low%20Latency%20Auto%20Legato.lua</source>
       </version>
     </reapack>
   </category>

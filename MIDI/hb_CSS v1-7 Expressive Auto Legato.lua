@@ -1,4 +1,4 @@
--- @description CSS v1-7 Expressive Auto Legato
+-- @description CSS v1.7 Expressive Auto Legato
 -- @author Harry Brokensha
 -- @version 0.1
 -- @changelog

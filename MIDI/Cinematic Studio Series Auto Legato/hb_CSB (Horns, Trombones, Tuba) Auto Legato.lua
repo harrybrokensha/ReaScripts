@@ -15,6 +15,9 @@
 
 legato_overlap_notes_after_processing = true
 
+--------------------------------------------------
+
+debug_messages = false
 
 if not reaper.SN_FocusMIDIEditor then
   local retval = reaper.ShowMessageBox("SWS extension required. Go to SWS webpage?", "Warning", 1)
